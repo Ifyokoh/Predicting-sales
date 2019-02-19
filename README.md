@@ -4,4 +4,5 @@ This repository contains my solution to the Data Science Nigeria Bootcamp Challe
 Here is the [Challenge](https://www.kaggle.com/c/dsn2018intercampus)
 # How to reproduce
 Running throught the notebook can produce similar result 
+
 Note: This is not the best result, better models can be used to get better solutions.
